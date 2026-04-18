@@ -248,17 +248,6 @@ I write to make complex security topics accessible — long-form on Substack, sh
 
 ---
 
-## 📊 GitHub activity
-
-<div align="center">
-
-![Sathya's GitHub stats](https://github-readme-stats.vercel.app/api?username=SathyaSivam-GRCNexis&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SathyaSivam-GRCNexis&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
 ## 🌐 Let's connect
 
 <div align="center">
