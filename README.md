@@ -29,7 +29,7 @@ I help organizations find security risks, put protective measures in place, and 
 
 I'm a **GRC Analyst at Zoho Corporation** with **4 years of hands-on experience**. My day-to-day is finding business risks, designing controls, and closing gaps before auditors find them. I've **led and represented 40+ audits** — internal reviews, external certifications, and customer security assessments — across **ISO 27001, GDPR, HIPAA, SOC 2, and SEBI**.
 
-I currently manage compliance for a SaaS platform spanning **12 international security and privacy standards** and **434 controls**, serving **50+ GRC analysts**. My focus is making compliance a sustainable daily practice — not a once-a-year audit exercise.
+I currently manage compliance for a SaaS platform spanning **12 international security and privacy standards** and **434 controls**. My focus is making compliance a sustainable daily practice — not a once-a-year audit exercise.
 
 > I don't just document compliance. I find risks, put safeguards in place, and make sure organizations are always ready for audits.
 
@@ -39,9 +39,9 @@ I currently manage compliance for a SaaS platform spanning **12 international se
 
 <div align="center">
 
-| 🛡️ **40+** | 📚 **12** | ⚙️ **434** | 🔗 **175** | 👥 **50+** | 🤖 **11** |
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| Audits led & represented | Compliance frameworks | Security controls managed | Cross-framework mappings | GRC analysts served | AI-powered features designed |
+| 🛡️ **40+** | 📚 **12** | ⚙️ **434** | 🔗 **175** | 🤖 **11** |
+|:---:|:---:|:---:|:---:|:---:|
+| Audits led & represented | Compliance frameworks | Security controls managed | Cross-framework mappings | AI-powered features designed |
 
 </div>
 
@@ -145,7 +145,7 @@ A risk list that leadership can't understand is a risk list that gets ignored. I
 - Led policy development and rollout — creating security rules and ensuring teams across the organization follow them consistently.
 - Managed incident response and customer assurance processes; supported regulatory inquiries and privacy impact assessments.
 - **Designed 11 AI-powered compliance features** including evidence quality scoring, anomaly detection, and a chatbot assistant for evidence owners.
-- **Designed an end-to-end compliance management system** for the SaaS platform — covering risk assessment, gap detection, evidence tracking, cross-framework control mapping, audit management, compliance calendar, cloud evidence storage, and SDLC security across **12 standards · 434 controls · 50+ analysts served**.
+- **Designed an end-to-end compliance management system** for the SaaS platform — covering risk assessment, gap detection, evidence tracking, cross-framework control mapping, audit management, compliance calendar, cloud evidence storage, and SDLC security across **12 standards and 434 controls**.
 
 ### **Intern — GRC** · Zoho Corporation
 *January 2022 — August 2022*
